@@ -16,9 +16,6 @@ Introduction
 
 ### Preview of the Web App
 
-#### Home Page
-<img width="1440" alt="Screenshot 2021-10-01 at 9 06 37 PM" src="https://user-images.githubusercontent.com/56961555/135648025-c6dfa004-f6a7-4d00-b24c-5066bd86196a.png">
-
 #### SignUp Page
 <img width="1440" alt="Screenshot 2021-10-01 at 9 06 52 PM" src="https://user-images.githubusercontent.com/56961555/135648058-94a94fb8-9f7c-48d6-8261-8d8748f5bfc8.png">
 
